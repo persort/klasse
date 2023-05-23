@@ -1,0 +1,15 @@
+[
+    { "navn": "Per-Arve", "etternavn": "Sortland", "tel.f nmr": 11122333, "e-post": "perarves@epost.ekte", "kjønn": "gutt"},
+    { "navn": "Tobias", "etternavn": "Mathisen", "tel.f nmr": 12123343, "e-post": "tobiss@epost.ekte", "kjønn": "gutt"},
+    { "navn": "Angelina", "etternavn": "sharukhina", "tel.f nmr": 22233444, "e-post": "angelina@epost.ekte", "kjønn": "jente"},
+    { "navn": "Mohamad Suhil", "etternavn": "Amayri", "tel.f nmr": 23234454, "e-post": "mohamad@epost.ekte", "kjønn": "gutt"},
+    { "navn": "Eline Maria", "etternavn": "Ellingsen", "tel.f nmr": 33344555, "e-post": "eline@epost.ekte", "kjønn": "jente"},
+    { "navn": "Espen Elstad", "etternavn": "Halsen", "tel.f nmr": 34345565, "e-post": "esprn@epost.ekte", "kjønn": "gutt"},
+    { "navn": "Rahma Abdi", "etternavn": "Hussein", "tel.f nmr": 44455666, "e-post": "rahms@epost.ekte", "kjønn": "jente"},
+    { "navn": "Maja øvregård", "etternavn": "Kvalvik", "tel.f nmr": 45456676, "e-post": "maja@epost.ekte", "kjønn": "jente"},
+    { "navn": "Håvard Skotnes", "etternavn": "Mathisen", "tel.f nmr": 55566777, "e-post": "håvard@epost.ekte", "kjønn": "gutt"},
+    { "navn": "Oliver", "etternavn": "Pettersen", "tel.f nmr": 56567787, "e-post": "olover@epost.ekte", "kjønn": "gutt"},
+    { "navn": "Nikola", "etternavn": "sochacka", "tel.f nmr": 66677888, "e-post": "nikpla@epost.ekte", "kjønn": "jente"},
+    { "navn": "Kristian Dankler", "etternavn": "Aakervik", "tel.f nmr": 67678898, "e-post": "krostian@epost.ekte", "kjønn": "gutt"},
+    { "navn": "Andreas Chummuenwai", "etternavn": "Bjørnå", "tel.f nmr": 77788999, "e-post": "endreas@epost.ekte", "kjønn": "gutt"}
+]
